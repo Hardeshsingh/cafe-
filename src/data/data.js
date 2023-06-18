@@ -1,5 +1,5 @@
 import Dosa from "../images/dosa.jpg";
-import Chola from "../images/chhola.jpg";
+import Chola from "../images/chole.jpg";
 import Idli from "../images/idli.jpg";
 import MasalaDosa from "../images/masala.jpg";
 import Paneer from "../images/paneer.jpg";
@@ -9,42 +9,42 @@ export const MenuList = [
   {
     name: "Dosa",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "A thin pancake of fermented rice and lentil batter, a delicious and nutritious South Indian staple.",
     image: Dosa,
     price: 200,
   },
   {
     name: "Chola",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "A Punjabi delight of spicy chickpeas and fluffy fried bread, a meal that will leave you feeling satisfied and happy.",
     image: Chola,
     price: 250,
   },
   {
     name: "Idli Sambhar",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "A classic South Indian dish of fluffy steamed cakes and lentil stew, a perfect combination of flavors and textures.",
     image: Idli,
     price: 300,
   },
   {
     name: "Masala Dosa",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "A crispy, savory crepe filled with spiced potatoes, a delicious and satisfying South Indian dish.",
     image: MasalaDosa,
     price: 100,
   },
   {
     name: "Paneer",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "A mild, milky cheese that is versatile and delicious, a perfect ingredient for a variety of Indian dishes.",
     image: Paneer,
     price: 400,
   },
   {
     name: "Gujrati",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+      "A delicious and wholesome cuisine that is influenced by both Indian and Middle Eastern flavors, a feast for the senses.",
     image: Gujrati,
     price: 500,
   },

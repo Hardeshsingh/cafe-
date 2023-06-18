@@ -39,7 +39,7 @@ const Footer = () => {
             },
           }}
         >
-          All Rights Reserved &copy; Techinfo YT
+          Thank you for visiting | The Hungry Robot 
         </Typography>
       </Box>
     </>
